@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7"/>
+	<classpathentry kind="lib" path="D:/OpenDDS-3.9/lib/i2jrt.jar"/>
+	<classpathentry kind="lib" path="D:/OpenDDS-3.9/lib/OpenDDS_DCPS.jar"/>
+	<classpathentry kind="lib" path="D:/OpenDDS-3.9/lib/tao_java.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
